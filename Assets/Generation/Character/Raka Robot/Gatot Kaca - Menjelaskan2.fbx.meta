@@ -1,0 +1,367 @@
+fileFormatVersion: 2
+guid: 24ec90bd5dc273e49878bda01901717e
+timeCreated: 1521361282
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Arm IK.L
+    100002: Arm IK.L_end
+    100004: Arm IK.R
+    100006: Arm IK.R_end
+    100008: Armature
+    100010: Betis Kanan
+    100012: Betis Kiri
+    100014: Chest
+    100016: Control
+    100018: Dada
+    100020: Elbow.L
+    100022: Elbow.L_end
+    100024: Elbow.R
+    100026: Elbow.R_end
+    100028: Foot.L
+    100030: Foot.L_end
+    100032: Foot.R
+    100034: Foot.R_end
+    100036: //RootNode
+    100038: Head
+    100040: Head_end
+    100042: Hiasan dada
+    100044: Hiasan Dada 2
+    100046: hiasan kaki
+    100048: Hiasan kaki 2
+    100050: Hiasan kepala
+    100052: Hiasan kepala melengkung
+    100054: Kenalpot 1
+    100056: Kenalpot 2
+    100058: Kepala
+    100060: Knee.L
+    100062: Knee.L.001
+    100064: Knee.L.001_end
+    100066: Knee.L_end
+    100068: Leg IK.L
+    100070: Leg IK.R
+    100072: Lengan atas kanan
+    100074: lengan atas kiri
+    100076: Lengan bawah kanan
+    100078: Lengan bawah kiri
+    100080: Lower Arm.L
+    100082: Lower Arm.L_end
+    100084: Lower Arm.R
+    100086: Lower Arm.R_end
+    100088: Lower Leg.L
+    100090: Lower Leg.L_end
+    100092: Lower Leg.R
+    100094: Lower Leg.R_end
+    100096: Lutut kanan
+    100098: Lutut kiri
+    100100: Paha Kanan
+    100102: Paha Kiri
+    100104: Perut
+    100106: Plane.001
+    100108: Plane.004
+    100110: Sikut kanan
+    100112: sikut kiri
+    100114: Stomach
+    100116: Sun
+    100118: tas kecil
+    100120: tas utama
+    100122: Telapak kaki kanan
+    100124: Telapak kaki kiri
+    100126: Telapak tangan kanan
+    100128: Telapak tangan kiri
+    100130: Topeng
+    100132: Topeng.001
+    100134: Tutup Mulut
+    100136: Upper Arm.L
+    100138: Upper Arm.R
+    100140: Upper Leg.L
+    100142: Upper Leg.R
+    400000: Arm IK.L
+    400002: Arm IK.L_end
+    400004: Arm IK.R
+    400006: Arm IK.R_end
+    400008: Armature
+    400010: Betis Kanan
+    400012: Betis Kiri
+    400014: Chest
+    400016: Control
+    400018: Dada
+    400020: Elbow.L
+    400022: Elbow.L_end
+    400024: Elbow.R
+    400026: Elbow.R_end
+    400028: Foot.L
+    400030: Foot.L_end
+    400032: Foot.R
+    400034: Foot.R_end
+    400036: //RootNode
+    400038: Head
+    400040: Head_end
+    400042: Hiasan dada
+    400044: Hiasan Dada 2
+    400046: hiasan kaki
+    400048: Hiasan kaki 2
+    400050: Hiasan kepala
+    400052: Hiasan kepala melengkung
+    400054: Kenalpot 1
+    400056: Kenalpot 2
+    400058: Kepala
+    400060: Knee.L
+    400062: Knee.L.001
+    400064: Knee.L.001_end
+    400066: Knee.L_end
+    400068: Leg IK.L
+    400070: Leg IK.R
+    400072: Lengan atas kanan
+    400074: lengan atas kiri
+    400076: Lengan bawah kanan
+    400078: Lengan bawah kiri
+    400080: Lower Arm.L
+    400082: Lower Arm.L_end
+    400084: Lower Arm.R
+    400086: Lower Arm.R_end
+    400088: Lower Leg.L
+    400090: Lower Leg.L_end
+    400092: Lower Leg.R
+    400094: Lower Leg.R_end
+    400096: Lutut kanan
+    400098: Lutut kiri
+    400100: Paha Kanan
+    400102: Paha Kiri
+    400104: Perut
+    400106: Plane.001
+    400108: Plane.004
+    400110: Sikut kanan
+    400112: sikut kiri
+    400114: Stomach
+    400116: Sun
+    400118: tas kecil
+    400120: tas utama
+    400122: Telapak kaki kanan
+    400124: Telapak kaki kiri
+    400126: Telapak tangan kanan
+    400128: Telapak tangan kiri
+    400130: Topeng
+    400132: Topeng.001
+    400134: Tutup Mulut
+    400136: Upper Arm.L
+    400138: Upper Arm.R
+    400140: Upper Leg.L
+    400142: Upper Leg.R
+    2100000: No Name
+    2100002: Material
+    2100004: Material.002
+    2300000: Betis Kanan
+    2300002: Betis Kiri
+    2300004: Dada
+    2300006: Hiasan dada
+    2300008: Hiasan Dada 2
+    2300010: hiasan kaki
+    2300012: Hiasan kaki 2
+    2300014: Hiasan kepala
+    2300016: Hiasan kepala melengkung
+    2300018: Kenalpot 1
+    2300020: Kenalpot 2
+    2300022: Kepala
+    2300024: Lengan atas kanan
+    2300026: lengan atas kiri
+    2300028: Lengan bawah kanan
+    2300030: Lengan bawah kiri
+    2300032: Lutut kanan
+    2300034: Lutut kiri
+    2300036: Paha Kanan
+    2300038: Paha Kiri
+    2300040: Perut
+    2300042: Plane.001
+    2300044: Plane.004
+    2300046: Sikut kanan
+    2300048: sikut kiri
+    2300050: tas kecil
+    2300052: tas utama
+    2300054: Telapak kaki kanan
+    2300056: Telapak kaki kiri
+    2300058: Telapak tangan kanan
+    2300060: Telapak tangan kiri
+    2300062: Topeng
+    2300064: Topeng.001
+    2300066: Tutup Mulut
+    3300000: Betis Kanan
+    3300002: Betis Kiri
+    3300004: Dada
+    3300006: Hiasan dada
+    3300008: Hiasan Dada 2
+    3300010: hiasan kaki
+    3300012: Hiasan kaki 2
+    3300014: Hiasan kepala
+    3300016: Hiasan kepala melengkung
+    3300018: Kenalpot 1
+    3300020: Kenalpot 2
+    3300022: Kepala
+    3300024: Lengan atas kanan
+    3300026: lengan atas kiri
+    3300028: Lengan bawah kanan
+    3300030: Lengan bawah kiri
+    3300032: Lutut kanan
+    3300034: Lutut kiri
+    3300036: Paha Kanan
+    3300038: Paha Kiri
+    3300040: Perut
+    3300042: Plane.001
+    3300044: Plane.004
+    3300046: Sikut kanan
+    3300048: sikut kiri
+    3300050: tas kecil
+    3300052: tas utama
+    3300054: Telapak kaki kanan
+    3300056: Telapak kaki kiri
+    3300058: Telapak tangan kanan
+    3300060: Telapak tangan kiri
+    3300062: Topeng
+    3300064: Topeng.001
+    3300066: Tutup Mulut
+    4300000: Perut
+    4300002: Dada
+    4300004: tas utama
+    4300006: tas kecil
+    4300008: Hiasan Dada 2
+    4300010: Hiasan dada
+    4300012: Kepala
+    4300014: Topeng.001
+    4300016: Hiasan kepala
+    4300018: Tutup Mulut
+    4300020: Topeng
+    4300022: Hiasan kepala melengkung
+    4300024: sikut kiri
+    4300026: lengan atas kiri
+    4300028: Lengan bawah kiri
+    4300030: Telapak tangan kiri
+    4300032: Sikut kanan
+    4300034: Lengan atas kanan
+    4300036: Telapak tangan kanan
+    4300038: Lengan bawah kanan
+    4300040: Lutut kiri
+    4300042: Paha Kiri
+    4300044: Kenalpot 1
+    4300046: Betis Kiri
+    4300048: Lutut kanan
+    4300050: Paha Kanan
+    4300052: Kenalpot 2
+    4300054: Betis Kanan
+    4300056: Telapak kaki kiri
+    4300058: Hiasan kaki 2
+    4300060: Telapak kaki kanan
+    4300062: hiasan kaki
+    4300064: Plane.004
+    4300066: Plane.001
+    7400000: Menjelaskan 2
+    9500000: //RootNode
+    10800000: Sun
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Menjelaskan 2
+      takeName: Armature|ArmatureAction
+      firstFrame: 0
+      lastFrame: 144
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,399 @@
+fileFormatVersion: 2
+guid: ce93636696323bd488df7f152de524a1
+timeCreated: 1521614208
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Cube_000
+    100002: Cube_001
+    100004: Cube_002
+    100006: Cube_003
+    100008: Cube_004
+    100010: Cube_005
+    100012: Cube_006
+    100014: Cube_007
+    100016: Cube_008
+    100018: Cube_009
+    100020: Cube_010
+    100022: Cube_011
+    100024: Cube_012
+    100026: Cube_013
+    100028: //RootNode
+    100030: Window_004
+    100032: Window_005
+    400000: Cube_000
+    400002: Cube_001
+    400004: Cube_002
+    400006: Cube_003
+    400008: Cube_004
+    400010: Cube_005
+    400012: Cube_006
+    400014: Cube_007
+    400016: Cube_008
+    400018: Cube_009
+    400020: Cube_010
+    400022: Cube_011
+    400024: Cube_012
+    400026: Cube_013
+    400028: //RootNode
+    400030: Window_004
+    400032: Window_005
+    2100000: Material_010__728x0-white-door-texture-s-max-terma-entrance-door-238362_jpg
+    2100002: Material_009__1313299749_239191702_2-Pintu-Besi-Harmonika-Rolling-Door-Konstr
+    2100004: Material_009__Seamless_wall_plaster__5__jpg
+    2100006: Material_009__Seamless_brown_stucco_plaster_wall_paper_texture_jpg
+    2100008: Material_008
+    2100010: Material_008__Seamless_floor_concrete_stone_block_tiles_texture_jpg
+    2100012: Plastic__White_stucco_plaster_wall_paper_seamless_texture_ver4_2048x2048
+    2100014: Plastic
+    2100016: Plastic__door_light_shadow_black_red_46_3840x2400_jpg
+    2100018: Material_002__Seamless_wall_plaster__11__jpg
+    2100020: Material_002
+    2100022: Material_007__Seamless_wall_plaster__11__jpg
+    2100024: Material_002__Seamless_wall_white_paint_stucco_plaster_texture_01_jpg
+    2100026: Material_002__Stucco_red_wall_feb_2015_seamless_texture_2048X2048_jpg
+    2100028: Material_002__Seamless_wall_plaster__5__jpg
+    2100030: Material_002__Seamless_brown_stucco_plaster_wall_paper_texture_jpg
+    2100032: Material_006__White_stucco_plaster_wall_paper_seamless_texture_ver4_2048x2048
+    2100034: Material_006
+    2100036: Material_006__Seamless_brown_stucco_plaster_wall_paper_texture_jpg
+    2100038: Material_006__Stucco_red_wall_feb_2015_seamless_texture_2048X2048_jpg
+    2100040: Material_006__stucco_yellow_jpg
+    2100042: Material_005__stucco_yellow_jpg
+    2100044: Material_005
+    2100046: Material_005__Stucco_red_wall_feb_2015_seamless_texture_2048X2048_jpg
+    2100048: Material_005__Seamless_wall_plaster__5__jpg
+    2100050: Material_005__Seamless_brown_stucco_plaster_wall_paper_texture_jpg
+    2100052: Material_004__Stucco_orange_plaster_wall_seamless_texture_2048x2048_jpg
+    2100054: Material_004
+    2100056: Material_004__Seamless_brown_stucco_plaster_wall_paper_texture_jpg
+    2100058: Material_003__stucco_yellow_jpg
+    2100060: Material_003
+    2100062: Material_003__Seamless_brown_stucco_plaster_wall_paper_texture_jpg
+    2100064: Material_001__tembok_SPEC_png
+    2100066: Material_006__Seamless_wall_plaster__5__jpg
+    2100068: Material_006__Stucco_orange_plaster_wall_seamless_texture_2048x2048_jpg
+    2100070: PVC
+    2100072: Glass
+    2100074: Marble
+    2300000: Cube_000
+    2300002: Cube_001
+    2300004: Cube_002
+    2300006: Cube_003
+    2300008: Cube_004
+    2300010: Cube_005
+    2300012: Cube_006
+    2300014: Cube_007
+    2300016: Cube_008
+    2300018: Cube_009
+    2300020: Cube_010
+    2300022: Cube_011
+    2300024: Cube_012
+    2300026: Cube_013
+    2300028: Window_004
+    2300030: Window_005
+    3300000: Cube_000
+    3300002: Cube_001
+    3300004: Cube_002
+    3300006: Cube_003
+    3300008: Cube_004
+    3300010: Cube_005
+    3300012: Cube_006
+    3300014: Cube_007
+    3300016: Cube_008
+    3300018: Cube_009
+    3300020: Cube_010
+    3300022: Cube_011
+    3300024: Cube_012
+    3300026: Cube_013
+    3300028: Window_004
+    3300030: Window_005
+    4300000: Cube_013
+    4300002: Cube_012
+    4300004: Cube_011
+    4300006: Cube_010
+    4300008: Cube_009
+    4300010: Cube_008
+    4300012: Cube_007
+    4300014: Cube_004
+    4300016: Cube_003
+    4300018: Cube_002
+    4300020: Cube_001
+    4300022: Cube_000
+    4300024: Cube_006
+    4300026: Cube_005
+    4300028: Window_005
+    4300030: Window_004
+    7400000: Default Take
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass
+    second: {fileID: 2100000, guid: 2a8f3c8b9b6eb1149a8a09b08db15ccf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Marble
+    second: {fileID: 2100000, guid: 19c34a8848e8acc48bcbf8489de9b5be, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_001__tembok_SPEC_png
+    second: {fileID: 2100000, guid: 4f2172de86d98e648a26173dd7baf697, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_002
+    second: {fileID: 2100000, guid: 3e555fb6945741546ace98f389508489, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_002__Seamless_brown_stucco_plaster_wall_paper_texture_jpg
+    second: {fileID: 2100000, guid: bac58b99e2a275b4a9be2a0281f21003, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_002__Seamless_wall_plaster__11__jpg
+    second: {fileID: 2100000, guid: 14d74ec2d4ebee34c945d46b3f960bd0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_002__Seamless_wall_plaster__5__jpg
+    second: {fileID: 2100000, guid: c0df9020804453b4e8a1d3cd253e4230, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_002__Seamless_wall_white_paint_stucco_plaster_texture_01_jpg
+    second: {fileID: 2100000, guid: f1a1254c9852ca34e9155569254fd0f0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_002__Stucco_red_wall_feb_2015_seamless_texture_2048X2048_jpg
+    second: {fileID: 2100000, guid: 007c2e5e76dd9a542a016ab57421d92c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_003
+    second: {fileID: 2100000, guid: b92fe380708149244ac13d8356e73bc0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_003__Seamless_brown_stucco_plaster_wall_paper_texture_jpg
+    second: {fileID: 2100000, guid: 436cb29365e031343ab2c9a79209744e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_003__stucco_yellow_jpg
+    second: {fileID: 2100000, guid: 88571de5ca1a13e4d9334115d48a5270, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_004
+    second: {fileID: 2100000, guid: 9796566e35ccba3418767a652206db3d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_004__Seamless_brown_stucco_plaster_wall_paper_texture_jpg
+    second: {fileID: 2100000, guid: 4bbc3b2df76e3634ea951d2c2711df6d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_004__Stucco_orange_plaster_wall_seamless_texture_2048x2048_jpg
+    second: {fileID: 2100000, guid: ed71c7a810ba12d46a2451ba12451c5c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_005
+    second: {fileID: 2100000, guid: d7b6ef49283fb3e4590425a3b9147c58, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_005__Seamless_brown_stucco_plaster_wall_paper_texture_jpg
+    second: {fileID: 2100000, guid: 6193d24f403e0bd41bd5b9ffdf851670, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_005__Seamless_wall_plaster__5__jpg
+    second: {fileID: 2100000, guid: 8cae504527669f143b46489db802f056, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_005__Stucco_red_wall_feb_2015_seamless_texture_2048X2048_jpg
+    second: {fileID: 2100000, guid: 7b14cfce6f1711a4ba88dcecc1d9c931, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_005__stucco_yellow_jpg
+    second: {fileID: 2100000, guid: ad8f365583f27de4d9ff3163c6c7df57, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_006
+    second: {fileID: 2100000, guid: 4d1389a46b787f14f9d5f474abfb74cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_006__Seamless_brown_stucco_plaster_wall_paper_texture_jpg
+    second: {fileID: 2100000, guid: 2f60a9a7a8f863b4daf9cc87699f835c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_006__Seamless_wall_plaster__5__jpg
+    second: {fileID: 2100000, guid: 2517b29f682e323438e91f1afcaf1dff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_006__Stucco_orange_plaster_wall_seamless_texture_2048x2048_jpg
+    second: {fileID: 2100000, guid: 7ceab6c41a54d214ea1673d8e1c6fe55, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_006__Stucco_red_wall_feb_2015_seamless_texture_2048X2048_jpg
+    second: {fileID: 2100000, guid: ef6b7bf9278d744458d867145ce9932c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_006__White_stucco_plaster_wall_paper_seamless_texture_ver4_2048x2048
+    second: {fileID: 2100000, guid: 9103d4dcfc300e64f9802d67ac0ae058, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_006__stucco_yellow_jpg
+    second: {fileID: 2100000, guid: 38ded3c9f0e7c474f8b5bf564351c4e3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_007__Seamless_wall_plaster__11__jpg
+    second: {fileID: 2100000, guid: f14962999de2b1448ad85bfc1e6590e6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_008
+    second: {fileID: 2100000, guid: 89ea5b102444ac44da1a02b390d2d0a3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_008__Seamless_floor_concrete_stone_block_tiles_texture_jpg
+    second: {fileID: 2100000, guid: 40a58f1dd64073149921189cf9555018, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_009__1313299749_239191702_2-Pintu-Besi-Harmonika-Rolling-Door-Konstr
+    second: {fileID: 2100000, guid: 35fc8100dc2d77c419ae6c1308a9c99c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_009__Seamless_brown_stucco_plaster_wall_paper_texture_jpg
+    second: {fileID: 2100000, guid: ba9b71a18220a7742811416244592749, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_009__Seamless_wall_plaster__5__jpg
+    second: {fileID: 2100000, guid: 6a9dc49c778850445890f22dc36c48fb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_010__728x0-white-door-texture-s-max-terma-entrance-door-238362_jpg
+    second: {fileID: 2100000, guid: 1ea7229f925eb0447a841c85bbb33bc7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PVC
+    second: {fileID: 2100000, guid: 6069aa39c26bfe84f812590b78046be5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plastic
+    second: {fileID: 2100000, guid: 01c25b0452ee99f43831cb491717340c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plastic__White_stucco_plaster_wall_paper_seamless_texture_ver4_2048x2048
+    second: {fileID: 2100000, guid: fc238d9ccd3e1df4e9a9b38abacf3a76, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plastic__door_light_shadow_black_red_46_3840x2400_jpg
+    second: {fileID: 2100000, guid: 05f357814d87ac3428f7678739a97dba, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
